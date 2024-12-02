@@ -1,0 +1,62 @@
+[
+     {
+         "playerId": 1,
+         "name": "Virat Kohli",
+         "country": "India",
+         "image": "https://example.com/virat_kohli.jpg",
+         "role": "Batsman",
+         "battingStyle": "Right-hand bat",
+         "bowlingStyle": "Right-arm medium",
+         "biddingPrice": "₹15 Cr"
+     },
+     {
+         "playerId": 2,
+         "name": "Ben Stokes",
+         "country": "England",
+         "image": "https://example.com/ben_stokes.jpg",
+         "role": "All-rounder",
+         "battingStyle": "Left-hand bat",
+         "bowlingStyle": "Right-arm fast-medium",
+         "biddingPrice": "₹12 Cr"
+     },
+     {
+         "playerId": 3,
+         "name": "Kane Williamson",
+         "country": "New Zealand",
+         "image": "https://example.com/kane_williamson.jpg",
+         "role": "Batsman",
+         "battingStyle": "Right-hand bat",
+         "bowlingStyle": "Right-arm offbreak",
+         "biddingPrice": "₹10 Cr"
+     },
+     {
+         "playerId": 4,
+         "name": "Jasprit Bumrah",
+         "country": "India",
+         "image": "https://example.com/jasprit_bumrah.jpg",
+         "role": "Bowler",
+         "battingStyle": "Right-hand bat",
+         "bowlingStyle": "Right-arm fast",
+         "biddingPrice": "₹7 Cr"
+     },
+     {
+         "playerId": 5,
+         "name": "David Warner",
+         "country": "Australia",
+         "image": "https://example.com/david_warner.jpg",
+         "role": "Batsman",
+         "battingStyle": "Left-hand bat",
+         "bowlingStyle": "Right-arm legbreak",
+         "biddingPrice": "₹11 Cr"
+     },
+     {
+         "playerId": 6,
+         "name": "Andre Russell",
+         "country": "West Indies",
+         "image": "https://example.com/andre_russell.jpg",
+         "role": "All-rounder",
+         "battingStyle": "Right-hand bat",
+         "bowlingStyle": "Right-arm fast",
+         "biddingPrice": "₹9 Cr"
+     }
+ ]
